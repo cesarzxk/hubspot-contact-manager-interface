@@ -1,0 +1,119 @@
+.container{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    z-index: -1;
+
+    
+}
+
+.waven3{
+    animation-name: waven3;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+    
+}
+
+@keyframes waven3{
+    0% {
+      transform: translateX(0px);
+      transform: scaleX(1);
+      
+      
+        
+      }
+    25% {
+        transform: translateX(8px);
+        transform: scaleX(1.08);
+        
+        
+        
+        
+     }
+     50% {
+      transform: translateX(0px);
+      transform: scaleX(1);
+
+      
+      
+    }
+
+    75% {
+      transform: translateX(-8px);
+      transform: scaleX(1.008);
+      
+      
+    }
+    100% {
+      transform: translateX(0px);
+      transform: scaleX(1);
+      
+      
+    }
+}
+
+.waven2{
+  animation-name: waven2;
+  animation-duration: 7s;
+  animation-iteration-count: infinite;
+  
+}
+
+@keyframes  waven2{
+  0% {
+    transform: translateX(10px);
+    transform: scaleX(1);
+      
+    }
+  25% {
+      transform: translateX(0px);
+      transform: scaleX(1.02);
+      
+   }
+   50% {
+    transform: translateX(-10px);
+    transform: scaleX(1);
+  }
+
+  75% {
+    transform: translateX(0px);
+    transform: scaleX(1.02);
+  }
+  100% {
+    transform: translateX(10px);
+    transform: scaleX(1);
+  }
+}
+
+.waven1{
+  animation-name: waven1;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  
+}
+
+@keyframes  waven1{
+  0% {
+    transform: translateX(0px);
+    transform: scaleX(1);
+      
+    }
+  25% {
+      transform: translateX(5px);
+      transform: scaleX(1.03);
+      
+   }
+   50% {
+    transform: translateX(0px);
+    transform: scaleX(1);
+  }
+
+  75% {
+    transform: translateX(-5px);
+    transform: scaleX(1.03);
+  }
+  100% {
+    transform: translateX(0px);
+    transform: scaleX(1);
+  }
+}

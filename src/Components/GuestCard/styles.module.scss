@@ -1,0 +1,30 @@
+.container{
+    width: 30rem;
+    height: 70vh;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    border: 1px solid #777;
+    border-radius: 10px;
+
+    background-color: #bbbbbb44;
+    backdrop-filter: blur(5px);
+
+   
+
+    padding: 50px;
+}
+
+.group{
+    flex: 1;
+}
+
+.labelTitle{
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-weight: 100;
+    font-size: 1rem;
+}
+

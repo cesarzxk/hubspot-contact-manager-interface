@@ -1,5 +1,3 @@
-@@César Vargas Dos Santos
-
 ## About the project
 
 Este aplicativo faz parte de um desafio de engenharia de software, onde foi proposto a criação de uma aplicação web responsável por criar e atualizar dados, consumindo apartir de uma api definida(HubSpot).

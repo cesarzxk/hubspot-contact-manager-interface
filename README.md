@@ -80,11 +80,11 @@ O back-end é composto por 3 end points:
 
 
 ----->contacts -----------> GET obtém todos os contatos e retorna
-              |
+              
               |-----------> GET:email retorna um contato através do seu email.
-              |
+              
               |-----------> PUT atualiza um contato e retorna uma resposta de criação
-              |
+              
               |-----------> POST cria um contato e retorna uma resposta de criação
 
 

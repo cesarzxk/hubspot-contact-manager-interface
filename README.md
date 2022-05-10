@@ -1,8 +1,8 @@
 ## 🖼️ Screenshot
 
 <p align="center"> 
-<img src="https://res.cloudinary.com/da91uwz7j/image/upload/v1652198324/hubspot-contact-create/ezgif.com-gif-maker_wmelzz.gif" width="300px">
-<img src="https://res.cloudinary.com/da91uwz7j/image/upload/v1652198323/hubspot-contact-create/ezgif.com-gif-maker_1_kr9cvp.gif" width="300px">
+<img src="https://res.cloudinary.com/da91uwz7j/image/upload/v1652198324/hubspot-contact-create/ezgif.com-gif-maker_wmelzz.gif" width="400px">
+<img src="https://res.cloudinary.com/da91uwz7j/image/upload/v1652198323/hubspot-contact-create/ezgif.com-gif-maker_1_kr9cvp.gif" width="400px">
 </p>
 
 ## About the project
